@@ -1,0 +1,18 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 25 oct. 2024, 16:47:17
+    Author     : Jose Pablo
+*/
+
+.dark {
+    background-color: #3a3a3a;
+    color: #b5b5b5;
+}
+
+.light {
+    background-color: #f4f4f4;
+    color: #535656;
+}
